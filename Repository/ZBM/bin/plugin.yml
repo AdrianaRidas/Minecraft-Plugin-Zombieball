@@ -1,0 +1,9 @@
+main: me.nkleins.zombieball.Main
+name: Zombieball
+version: 1.1
+author: The Flintstones
+commands:
+  Snowball:
+     description: Get a snowball in case of a bug!
+  Votestart:  
+     description: Vote to start the Game!
